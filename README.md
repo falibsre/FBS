@@ -33,7 +33,7 @@
 
 WARNING: DATABASE IS NOT WORKING
 
-![IMG_1310](https://github.com/falibsre/FBS/tree/47/blob/main/menu.png)
+![IMG_1310](https://github.com/falibsre/FBS/blob/47/menu.png)
 
 ## credits ##
 
