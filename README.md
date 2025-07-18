@@ -1,2 +1,3 @@
-# FBS
-Open source server for brawl stars
+V47:
+V49:
+V53:
