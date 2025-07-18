@@ -1,5 +1,3 @@
-# FBS-V49
-
 # This is a fork from original BSDS by [Crazor](https://github.com/CrazorTheCat)  with a lot less features, it is meant for developement, do not use for production and hosting for others.
 
 ## How to play FBS: ##
